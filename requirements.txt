@@ -1,0 +1,2 @@
+highcharts-stock>=1.7.0
+jupyterlab>=4.4.2
